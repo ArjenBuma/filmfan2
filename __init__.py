@@ -1,7 +1,7 @@
 import os
 from flask import Flask
 
-
+# groetjes van uit dr88
 # from flask_sqlalchemy import SQLAlchemy
 # from flask_migrate import Migrate
 
