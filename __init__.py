@@ -6,6 +6,8 @@ from flask import Flask
 # from flask_sqlalchemy import SQLAlchemy
 # from flask_migrate import Migrate
 
+# het komt allemaal goed
+
 from routes.home.home import home
 from routes.film.film import film
 from routes.regisseur.regisseur import regisseur
